@@ -1,0 +1,63 @@
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.form-signup {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.logo {
+  width: 100px;
+}
+.title{
+  text-align: center;
+}
+.iti {
+  width: 100%;
+}
+.grid-container {
+  padding: 10px 25px 0px 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  text-align: center;
+}
+.grid-container .active {
+  border-bottom:2px solid red;
+}
+.LoginOTP {
+  background-color:#47e5f7;
+  border-color:#47e5f7;
+}
+
+.Login {
+  background-color:#541672;
+  border-color:#541672;
+}
+
+.Register {
+  background-color:#541672;
+  border-color:#541672;
+}
+
+.LoginFB {
+  background-color:#3b5998;
+  border-color:#3b5998;
+}
+
+.pull-right{
+  float: right;
+}
+
+.bottom-text {
+  text-align: justify;
+  line-height: 16px;
+}
